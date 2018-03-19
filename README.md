@@ -4,7 +4,7 @@ Age3D files and projects (games, applications..) !
 In this repository, you will find some agk files and one of my project: AGE3D.
 
 
-#What is age3D ?
+# What is age3D ?
 
 Age3D is a 3D level editor (made in agk, for AGK or other game engine / langage).
 
@@ -18,36 +18,37 @@ With Age3D, you can create the levels for your games, and you can even add some 
 
 
 # Some features
-- create Assets : 3D objects (primitives or import models), light, camera, particles (wip).
-- transformations : move,rotation,scale/size, Visible, shadows(cast, receive), set image (+UV scale, offset) and shaders, color & alpha, blendmode...
-- animation : play, speed, frame start, end.
-- physics : add body, collision
-- selection/multi-selection
-- World (+save\load) : skybox, sun, fog, ambient, shadow
-- Options: snap, lock
-- copy/paste
-- hide/freeze, change parameters to multiselection
+    - create Assets : 3D objects (primitives or import models), light, camera, particles (wip).
+    - transformations : move,rotation,scale/size, Visible, shadows(cast, receive), set image (+UV scale, offset) and shaders, color & alpha, blendmode...
+    - animation : play, speed, frame start, end.
+    - physics : add body, collision
+	- selection/multi-selection
+	- World (+save\load) : skybox, sun, fog, ambient, shadow
+	- Options: snap, lock
+	- copy/paste
+	- hide/freeze, change parameters to multiselection
 
 WIP : 
-- test the level
-- add behaviors : objectIsPlayer, ViewCentererOnPlayer, PlayerKeyboard, mouse (clic and go) and some little gameplays like moveX/Y (with sin()), scaleX/Y and rotationOnCenter
+	- test the level
+	- add behaviors : objectIsPlayer, ViewCentererOnPlayer, PlayerKeyboard, mouse (clic and go) and some little gameplays like moveX/Y (with sin()), scaleX/Y and rotationOnCenter
 
 
 
-#ScreenShots & videos
+# ScreenShots & videos
 
-![Age3D v0.46]
-
-(https://youtu.be/nWiGlPKf7FU)
-
+Version 0.56.3
+![Age3D v0.56.3](https://raw.githubusercontent.com/blendman/Age3D/master/screenshots/agk3Deditor0.56.3_2.jpg)
 
 
-#Community
+![Age3D v0.46](https://youtu.be/nWiGlPKf7FU)
+
+
+# Community
 
     To share tips or to troubleshoot, join the TGC (thegamecreateors) Users forum (https://forum.thegamecreators.com/thread/221796)
     If you found a bug with the software after troubleshooting, search the Github issues and post there.
 
-#Licensing
+# Licensing
 
     Please consult with the licenses in the appropriate READMEs.
     

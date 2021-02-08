@@ -11,7 +11,7 @@ Age3D is a 3D level editor (made in agk, for AGK or other game engine / langage)
 - Developped by : Blendman (made with AGK2)
 - Langage : agk2 (tier1 basic)
 - Date : 2015 (first tests), 06/2016 (basic version), 02 to 03/2018 (improvements)
-- Last version  : 0.58 (03/2018). 
+- Last version  : 0.63 (03/2018). 
 
 
 With Age3D, you can create the levels for your games, and you can even add some gameplays (basic for the moment), like behaviors. You can add physics (basic too), add shaders/textures, open/export models...
